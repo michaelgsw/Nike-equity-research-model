@@ -1,0 +1,214 @@
+﻿check,period,lhs,rhs,difference,pass
+BS: total assets = total liabilities and equity,FY2021,37740.0,37740.0,0.0,True
+BS: current asset lines sum to total current assets,FY2021,26291.0,26291.0,0.0,True
+BS: current + non-current asset lines = total assets,FY2021,37740.0,37740.0,0.0,True
+BS: current liability lines sum to total current liabilities,FY2021,9674.0,9674.0,0.0,True
+BS: equity lines sum to total shareholders' equity,FY2021,12767.0,12767.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,FY2021,37740.0,37740.0,0.0,True
+BS: total assets = total liabilities and equity,FY2022,40321.0,40321.0,0.0,True
+BS: current asset lines sum to total current assets,FY2022,28213.0,28213.0,0.0,True
+BS: current + non-current asset lines = total assets,FY2022,40321.0,40321.0,0.0,True
+BS: current liability lines sum to total current liabilities,FY2022,10730.0,10730.0,0.0,True
+BS: equity lines sum to total shareholders' equity,FY2022,15281.0,15281.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,FY2022,40321.0,40321.0,0.0,True
+BS: total assets = total liabilities and equity,FY2023,37531.0,37531.0,0.0,True
+BS: current asset lines sum to total current assets,FY2023,25202.0,25202.0,0.0,True
+BS: current + non-current asset lines = total assets,FY2023,37531.0,37531.0,0.0,True
+BS: current liability lines sum to total current liabilities,FY2023,9256.0,9256.0,0.0,True
+BS: equity lines sum to total shareholders' equity,FY2023,14004.0,14004.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,FY2023,37531.0,37531.0,0.0,True
+BS: total assets = total liabilities and equity,FY2024,38110.0,38110.0,0.0,True
+BS: current asset lines sum to total current assets,FY2024,25382.0,25382.0,0.0,True
+BS: current + non-current asset lines = total assets,FY2024,38110.0,38110.0,0.0,True
+BS: current liability lines sum to total current liabilities,FY2024,10593.0,10593.0,0.0,True
+BS: equity lines sum to total shareholders' equity,FY2024,14430.0,14430.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,FY2024,38110.0,38110.0,0.0,True
+BS: total assets = total liabilities and equity,FY2025,36579.0,36579.0,0.0,True
+BS: current asset lines sum to total current assets,FY2025,23362.0,23362.0,0.0,True
+BS: current + non-current asset lines = total assets,FY2025,36579.0,36579.0,0.0,True
+BS: current liability lines sum to total current liabilities,FY2025,10566.0,10566.0,0.0,True
+BS: equity lines sum to total shareholders' equity,FY2025,13213.0,13213.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,FY2025,36579.0,36579.0,0.0,True
+BS: total assets = total liabilities and equity,FY2026,38410.0,38410.0,0.0,True
+BS: current asset lines sum to total current assets,FY2026,24603.0,24603.0,0.0,True
+BS: current + non-current asset lines = total assets,FY2026,38410.0,38410.0,0.0,True
+BS: current liability lines sum to total current liabilities,FY2026,12547.0,12547.0,0.0,True
+BS: equity lines sum to total shareholders' equity,FY2026,14865.0,14865.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,FY2026,38410.0,38410.0,0.0,True
+BS: total assets = total liabilities and equity,Q1 FY2027,37794.0,37794.0,0.0,True
+BS: current asset lines sum to total current assets,Q1 FY2027,23673.0,23673.0,0.0,True
+BS: current + non-current asset lines = total assets,Q1 FY2027,37794.0,37794.0,0.0,True
+BS: current liability lines sum to total current liabilities,Q1 FY2027,11409.0,11409.0,0.0,True
+BS: equity lines sum to total shareholders' equity,Q1 FY2027,15220.0,15220.0,0.0,True
+BS: liability and equity lines = total liabilities and equity,Q1 FY2027,37794.0,37794.0,0.0,True
+CF: operating lines sum to cash from operations,FY2020,2485.0,2485.0,0.0,True
+CF: investing lines sum to cash from investing,FY2020,-1028.0,-1028.0,0.0,True
+CF: financing lines sum to cash from financing,FY2020,2491.0,2491.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2020,3882.0,3882.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2020,8348.0,8348.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2020,8348.0,,,
+CF: operating lines sum to cash from operations,FY2021,6657.0,6657.0,0.0,True
+CF: investing lines sum to cash from investing,FY2021,-3800.0,-3800.0,0.0,True
+CF: financing lines sum to cash from financing,FY2021,-1459.0,-1459.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2021,1541.0,1541.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2021,9889.0,9889.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2021,9889.0,9889.0,0.0,True
+CF: operating lines sum to cash from operations,FY2022,5188.0,5188.0,0.0,True
+CF: investing lines sum to cash from investing,FY2022,-1524.0,-1524.0,0.0,True
+CF: financing lines sum to cash from financing,FY2022,-4836.0,-4836.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2022,-1315.0,-1315.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2022,8574.0,8574.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2022,8574.0,8574.0,0.0,True
+CF: operating lines sum to cash from operations,FY2023,5841.0,5841.0,0.0,True
+CF: investing lines sum to cash from investing,FY2023,564.0,564.0,0.0,True
+CF: financing lines sum to cash from financing,FY2023,-7447.0,-7447.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2023,-1133.0,-1133.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2023,7441.0,7441.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2023,7441.0,7441.0,0.0,True
+CF: operating lines sum to cash from operations,FY2024,7429.0,7429.0,0.0,True
+CF: investing lines sum to cash from investing,FY2024,894.0,894.0,0.0,True
+CF: financing lines sum to cash from financing,FY2024,-5888.0,-5888.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2024,2419.0,2419.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2024,9860.0,9860.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2024,9860.0,9860.0,0.0,True
+CF: operating lines sum to cash from operations,FY2025,3698.0,3698.0,0.0,True
+CF: investing lines sum to cash from investing,FY2025,-275.0,-275.0,0.0,True
+CF: financing lines sum to cash from financing,FY2025,-5820.0,-5820.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2025,-2396.0,-2396.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2025,7464.0,7464.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2025,7464.0,7464.0,0.0,True
+CF: operating lines sum to cash from operations,FY2026,2868.0,2868.0,0.0,True
+CF: investing lines sum to cash from investing,FY2026,-488.0,-488.0,0.0,True
+CF: financing lines sum to cash from financing,FY2026,-2292.0,-2292.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,FY2026,99.0,99.0,0.0,True
+CF: beginning cash + net change = ending cash,FY2026,7563.0,7563.0,0.0,True
+CF ending cash = BS cash and equivalents,FY2026,7563.0,7563.0,0.0,True
+CF: operating lines sum to cash from operations,Q1 FY2026,222.0,222.0,0.0,True
+CF: investing lines sum to cash from investing,Q1 FY2026,-59.0,-59.0,0.0,True
+CF: financing lines sum to cash from financing,Q1 FY2026,-598.0,-598.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,Q1 FY2026,-440.0,-440.0,0.0,True
+CF: beginning cash + net change = ending cash,Q1 FY2026,7024.0,7024.0,0.0,True
+CF ending cash = BS cash and equivalents,Q1 FY2026,7024.0,,,
+CF: operating lines sum to cash from operations,Q1 FY2027,135.0,135.0,0.0,True
+CF: investing lines sum to cash from investing,Q1 FY2027,-192.0,-192.0,0.0,True
+CF: financing lines sum to cash from financing,Q1 FY2027,-618.0,-618.0,0.0,True
+CF: CFO + CFI + CFF + FX = net change in cash,Q1 FY2027,-660.0,-660.0,0.0,True
+CF: beginning cash + net change = ending cash,Q1 FY2027,6903.0,6903.0,0.0,True
+CF ending cash = BS cash and equivalents,Q1 FY2027,6903.0,6903.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2020,16241.0,16241.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2020,13126.0,13126.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2020,2887.0,2887.0,0.0,True
+IS: pre-tax income - tax = net income,FY2020,2539.0,2539.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2021,19962.0,19962.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2021,13025.0,13025.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2021,6661.0,6661.0,0.0,True
+IS: pre-tax income - tax = net income,FY2021,5727.0,5727.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2022,21479.0,21479.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2022,14804.0,14804.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2022,6651.0,6651.0,0.0,True
+IS: pre-tax income - tax = net income,FY2022,6046.0,6046.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2023,22292.0,22292.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2023,16377.0,16377.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2023,6201.0,6201.0,0.0,True
+IS: pre-tax income - tax = net income,FY2023,5070.0,5070.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2024,22887.0,22887.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2024,16576.0,16576.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2024,6700.0,6700.0,0.0,True
+IS: pre-tax income - tax = net income,FY2024,5700.0,5700.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2025,19790.0,19790.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2025,16088.0,16088.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2025,3885.0,3885.0,0.0,True
+IS: pre-tax income - tax = net income,FY2025,3219.0,3219.0,0.0,True
+IS: revenue - cost of sales = gross profit,FY2026,19911.0,19911.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,FY2026,16114.0,16114.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,FY2026,3900.0,3900.0,0.0,True
+IS: pre-tax income - tax = net income,FY2026,3108.0,3108.0,0.0,True
+IS: revenue - cost of sales = gross profit,Q1 FY2026,4943.0,4943.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,Q1 FY2026,4016.0,4016.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,Q1 FY2026,922.0,922.0,0.0,True
+IS: pre-tax income - tax = net income,Q1 FY2026,727.0,727.0,0.0,True
+IS: revenue - cost of sales = gross profit,Q1 FY2027,4798.0,4798.0,0.0,True
+IS: demand creation + operating overhead = total SG&A,Q1 FY2027,3910.0,3910.0,0.0,True
+IS: gross profit - SG&A - interest - other = pre-tax income,Q1 FY2027,921.0,921.0,0.0,True
+IS: pre-tax income - tax = net income,Q1 FY2027,712.0,712.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2020,35568.0,35568.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2020,37403.0,37403.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2020,2976.0,2976.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2020,14484.0,14484.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2020,9347.0,9347.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2020,6679.0,6679.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2020,5028.0,5028.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2020,1846.0,1846.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2020,35568.0,35568.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2021,42293.0,42293.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2021,44538.0,44538.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2021,6923.0,6923.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2021,17179.0,17179.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2021,11456.0,11456.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2021,8290.0,8290.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2021,5343.0,5343.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2021,2205.0,2205.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2021,42293.0,42293.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2022,44436.0,44436.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2022,46710.0,46710.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2022,6856.0,6856.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2022,18353.0,18353.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2022,12479.0,12479.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2022,7547.0,7547.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2022,5955.0,5955.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2022,2346.0,2346.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2022,44436.0,44436.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2023,48763.0,48763.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2023,51217.0,51217.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2023,6195.0,6195.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2023,21608.0,21608.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2023,13418.0,13418.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2023,7248.0,7248.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2023,6431.0,6431.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2023,2427.0,2427.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2023,48763.0,48763.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2024,49322.0,49322.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2024,51362.0,51362.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2024,6539.0,6539.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2024,21396.0,21396.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2024,13607.0,13607.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2024,7545.0,7545.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2024,6729.0,6729.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2024,2082.0,2082.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2024,49322.0,49322.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2025,44714.0,44714.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2025,46309.0,46309.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2025,3778.0,3778.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2025,19572.0,19572.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2025,12257.0,12257.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2025,6586.0,6586.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2025,6251.0,6251.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2025,1692.0,1692.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2025,44714.0,44714.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,FY2026,45222.0,45222.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,FY2026,46398.0,46398.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,FY2026,3850.0,3850.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,FY2026,20511.0,20511.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,FY2026,12572.0,12572.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,FY2026,5847.0,5847.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,FY2026,6243.0,6243.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,FY2026,1174.0,1174.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,FY2026,45222.0,45222.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,Q1 FY2026,11362.0,11362.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,Q1 FY2026,11720.0,11720.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,Q1 FY2026,904.0,904.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,Q1 FY2026,5020.0,5020.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,Q1 FY2026,3331.0,3331.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,Q1 FY2026,1512.0,1512.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,Q1 FY2026,1490.0,1490.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,Q1 FY2026,366.0,366.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,Q1 FY2026,11362.0,11362.0,0.0,True
+SEG: geographies + Global Brand Divisions = NIKE Brand revenue,Q1 FY2027,10952.0,10952.0,0.0,True
+SEG: NIKE Brand + Converse + Corporate = income statement revenue,Q1 FY2027,11213.0,11213.0,0.0,True
+SEG: segment EBIT incl. Corporate = pre-tax income - net interest income,Q1 FY2027,907.0,907.0,0.0,True
+SEG: North America wholesale + NIKE Direct + other = segment revenue,Q1 FY2027,5127.0,5127.0,0.0,True
+SEG: EMEA wholesale + NIKE Direct + other = segment revenue,Q1 FY2027,3176.0,3176.0,0.0,True
+SEG: Greater China wholesale + NIKE Direct + other = segment revenue,Q1 FY2027,1180.0,1180.0,0.0,True
+SEG: APLA wholesale + NIKE Direct + other = segment revenue,Q1 FY2027,1463.0,1463.0,0.0,True
+SEG: Converse wholesale + NIKE Direct + other = segment revenue,Q1 FY2027,263.0,263.0,0.0,True
+SEG: NIKE Brand wholesale + NIKE Direct + other = segment revenue,Q1 FY2027,10952.0,10952.0,0.0,True

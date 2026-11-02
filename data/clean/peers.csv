@@ -1,0 +1,105 @@
+﻿ticker,item,period,start,end,value,unit,source
+LULU,revenue,FY,2025-02-03,2026-02-01,11102.6,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+LULU,revenue,YTD,2026-02-02,2026-08-02,4887.234,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+LULU,revenue,YTD_prior,2025-02-03,2025-08-03,4895.879,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+LULU,ebit,FY,2025-02-03,2026-02-01,2210.615,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201_htm.xml | us-gaap_OperatingIncomeLoss
+LULU,ebit,YTD,2026-02-02,2026-08-02,730.599,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_OperatingIncomeLoss
+LULU,ebit,YTD_prior,2025-02-03,2025-08-03,962.439,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_OperatingIncomeLoss
+LULU,net_income,FY,2025-02-03,2026-02-01,1579.183,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201_htm.xml | us-gaap_NetIncomeLoss
+LULU,net_income,YTD,2026-02-02,2026-08-02,524.271,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_NetIncomeLoss
+LULU,net_income,YTD_prior,2025-02-03,2025-08-03,685.477,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_NetIncomeLoss
+LULU,da,FY,2025-02-03,2026-02-01,496.228,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201_htm.xml | us-gaap_DepreciationDepletionAndAmortization
+LULU,da,YTD,2026-02-02,2026-08-02,277.667,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_DepreciationDepletionAndAmortization
+LULU,da,YTD_prior,2025-02-03,2025-08-03,234.244,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_DepreciationDepletionAndAmortization
+LULU,cash,BS,,2026-08-02,1389.737,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents
+LULU,debt_current,BS,,2026-08-02,0.0,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | us-gaap_ShortTermBorrowings
+LULU,debt_noncurrent,BS,,2026-08-02,0.0,USD m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | no such line on the balance sheet
+LULU,shares,BS,,2026-08-28,105.594064,shares m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | dei_EntityCommonStockSharesOutstanding
+LULU,shares_exchangeable,BS,,2026-08-02,5.116,shares m,https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802_htm.xml | shop.lululemon.com_ExchangeableStockSharesOutstanding
+DECK,revenue,FY,2025-04-01,2026-03-31,5472.296,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+DECK,revenue,YTD,2026-04-01,2026-09-30,2500.085,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+DECK,revenue,YTD_prior,2025-04-01,2025-09-30,2395.378,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+DECK,ebit,FY,2025-04-01,2026-03-31,1262.903,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331_htm.xml | us-gaap_OperatingIncomeLoss
+DECK,ebit,YTD,2026-04-01,2026-09-30,544.757,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_OperatingIncomeLoss
+DECK,ebit,YTD_prior,2025-04-01,2025-09-30,491.808,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_OperatingIncomeLoss
+DECK,net_income,FY,2025-04-01,2026-03-31,1024.071,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331_htm.xml | us-gaap_NetIncomeLoss
+DECK,net_income,YTD,2026-04-01,2026-09-30,443.107,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_NetIncomeLoss
+DECK,net_income,YTD_prior,2025-04-01,2025-09-30,407.355,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_NetIncomeLoss
+DECK,da,FY,2025-04-01,2026-03-31,75.773,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331_htm.xml | us-gaap_DepreciationAmortizationAndAccretionNet
+DECK,da,YTD,2026-04-01,2026-09-30,36.036,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_DepreciationAmortizationAndAccretionNet
+DECK,da,YTD_prior,2025-04-01,2025-09-30,39.171,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_DepreciationAmortizationAndAccretionNet
+DECK,cash,BS,,2026-09-30,1209.722,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | us-gaap_CashAndCashEquivalentsAtCarryingValue
+DECK,debt_current,BS,,2026-09-30,0.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | no such line on the balance sheet
+DECK,debt_noncurrent,BS,,2026-09-30,0.0,USD m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | no such line on the balance sheet
+DECK,shares,BS,,2026-10-08,133.479987,shares m,https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930_htm.xml | dei_EntityCommonStockSharesOutstanding
+UAA,revenue,FY,2025-04-01,2026-03-31,4966.37,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000073/ua-20260331_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+UAA,revenue,YTD,2026-04-01,2026-06-30,1097.927,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+UAA,revenue,YTD_prior,2025-04-01,2025-06-30,1134.068,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+UAA,ebit,FY,2025-04-01,2026-03-31,-163.112,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000073/ua-20260331_htm.xml | us-gaap_OperatingIncomeLoss
+UAA,ebit,YTD,2026-04-01,2026-06-30,46.739,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_OperatingIncomeLoss
+UAA,ebit,YTD_prior,2025-04-01,2025-06-30,3.323,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_OperatingIncomeLoss
+UAA,net_income,FY,2025-04-01,2026-03-31,-495.643,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000073/ua-20260331_htm.xml | us-gaap_NetIncomeLoss
+UAA,net_income,YTD,2026-04-01,2026-06-30,0.545,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_NetIncomeLoss
+UAA,net_income,YTD_prior,2025-04-01,2025-06-30,-2.612,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_NetIncomeLoss
+UAA,da,FY,2025-04-01,2026-03-31,109.623,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000073/ua-20260331_htm.xml | us-gaap_DepreciationDepletionAndAmortization
+UAA,da,YTD,2026-04-01,2026-06-30,25.418,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_DepreciationDepletionAndAmortization
+UAA,da,YTD_prior,2025-04-01,2025-06-30,28.981,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_DepreciationDepletionAndAmortization
+UAA,cash,BS,,2026-06-30,395.981,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_CashAndCashEquivalentsAtCarryingValue
+UAA,debt_current,BS,,2026-06-30,0.0,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_LongTermDebtCurrent
+UAA,debt_noncurrent,BS,,2026-06-30,591.158,USD m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | us-gaap_LongTermDebtNoncurrent
+UAA,shares_class_a,BS,,2026-07-31,188.839506,shares m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | dei_EntityCommonStockSharesOutstanding [us-gaap:CommonClassAMember]
+UAA,shares_class_b,BS,,2026-07-31,34.45,shares m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | dei_EntityCommonStockSharesOutstanding [us-gaap:ConvertibleCommonStockMember]
+UAA,shares_class_c,BS,,2026-07-31,206.256035,shares m,https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630_htm.xml | dei_EntityCommonStockSharesOutstanding [us-gaap:CommonClassCMember]
+ONON,revenue,FY,2025-01-01,2025-12-31,3014.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231_htm.xml | ifrs-full_RevenueFromContractsWithCustomers
+ONON,revenue,YTD,2026-01-01,2026-06-30,1682.2,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_RevenueFromContractsWithCustomers
+ONON,revenue,YTD_prior,2025-01-01,2025-06-30,1475.8,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_RevenueFromContractsWithCustomers
+ONON,ebit,FY,2025-01-01,2025-12-31,377.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231_htm.xml | ifrs-full_ProfitLossFromOperatingActivities
+ONON,ebit,YTD,2026-01-01,2026-06-30,236.9,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_ProfitLossFromOperatingActivities
+ONON,ebit,YTD_prior,2025-01-01,2025-06-30,169.8,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_ProfitLossFromOperatingActivities
+ONON,net_income,FY,2025-01-01,2025-12-31,203.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231_htm.xml | ifrs-full_ProfitLossAttributableToOwnersOfParent
+ONON,net_income,YTD,2026-01-01,2026-06-30,208.3,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_ProfitLossAttributableToOwnersOfParent
+ONON,net_income,YTD_prior,2025-01-01,2025-06-30,15.8,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_ProfitLossAttributableToOwnersOfParent
+ONON,da,FY,2025-01-01,2025-12-31,127.4,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231_htm.xml | ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense
+ONON,da,YTD,2026-01-01,2026-06-30,72.1,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense
+ONON,da,YTD_prior,2025-01-01,2025-06-30,60.7,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense
+ONON,cash,BS,,2026-06-30,1205.6,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_CashAndCashEquivalents
+ONON,debt_current,BS,,2026-06-30,0.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | no such line on the balance sheet
+ONON,debt_noncurrent,BS,,2026-06-30,0.0,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | no such line on the balance sheet
+ONON,lease_current,BS,,2026-06-30,87.9,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_CurrentLeaseLiabilities
+ONON,lease_noncurrent,BS,,2026-06-30,474.6,CHF m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_NoncurrentLeaseLiabilities
+ONON,shares_class_a,BS,,2026-06-30,301.715535,shares m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_NumberOfSharesOutstanding [onholdingag:ClassASharesMember]
+ONON,shares_class_b,BS,,2026-06-30,324.99168,shares m,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_htm.xml | ifrs-full_NumberOfSharesOutstanding [onholdingag:ClassBVotingSharesMember]
+ADS.DE,revenue,FY,2025-01-01,2025-12-31,24811.0,EUR m,"adidas FY 2025 results release (2026-03-04), p.13, income statement: Net sales"
+ADS.DE,revenue,YTD,2026-01-01,2026-09-30,20587.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.12, income statement: Net sales, nine months 2026"
+ADS.DE,revenue,YTD_prior,2025-01-01,2025-09-30,18735.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.12, income statement: Net sales, nine months 2025"
+ADS.DE,ebit,FY,2025-01-01,2025-12-31,2056.0,EUR m,"adidas FY 2025 results release (2026-03-04), p.13: Operating profit"
+ADS.DE,ebit,YTD,2026-01-01,2026-09-30,2287.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.12: Operating profit, nine months 2026"
+ADS.DE,ebit,YTD_prior,2025-01-01,2025-09-30,1892.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.12: Operating profit, nine months 2025"
+ADS.DE,net_income,FY,2025-01-01,2025-12-31,1340.0,EUR m,"adidas FY 2025 results release (2026-03-04), p.13: Net income attributable to shareholders (includes discontinued operations)"
+ADS.DE,net_income,YTD,2026-01-01,2026-09-30,1543.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.12: Net income attributable to shareholders, nine months 2026"
+ADS.DE,net_income,YTD_prior,2025-01-01,2025-09-30,1259.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.12: Net income attributable to shareholders, nine months 2025"
+ADS.DE,cash,BS,,2026-09-30,1651.0,EUR m,"adidas Q3 2026 results release (2026-10-29), p.14, statement of financial position: Cash and cash equivalents"
+ADS.DE,debt_current,BS,,2026-09-30,590.0,EUR m,"adidas Q3 2026 results release, p.14: Short-term borrowings"
+ADS.DE,debt_noncurrent,BS,,2026-09-30,2489.0,EUR m,"adidas Q3 2026 results release, p.14: Long-term borrowings"
+ADS.DE,lease_current,BS,,2026-09-30,623.0,EUR m,"adidas Q3 2026 results release, p.14: Current lease liabilities"
+ADS.DE,lease_noncurrent,BS,,2026-09-30,2282.0,EUR m,"adidas Q3 2026 results release, p.14: Non-current lease liabilities"
+ADS.DE,nci,BS,,2026-09-30,405.0,EUR m,"adidas Q3 2026 results release, p.14: Non-controlling interests"
+ADS.DE,shares,BS,,2026-09-30,172.4,shares m,"adidas Q3 2026 results release, p.8: number of shares outstanding at quarter-end after buyback (share capital EUR 172m at EUR 1 par on p.14 agrees)"
+ADS.DE,adj_net_borrowings,BS,,2026-09-30,4646.0,EUR m,"adidas Q3 2026 results release, p.8 and p.15: adjusted net borrowings (borrowings + leases + pensions + factoring - accessible cash)"
+ADS.DE,da,FY,2025-01-01,2025-12-31,1135.0,EUR m,"adidas Annual Report 2025, Group Management Report - Financial Review - Income Statement (https://report.adidas-group.com/2025/en/group-management-report-financial-review/business-performance/income-statement.html): total depreciation and amortization as well as impairment losses/reversal of impairment losses for tangible, right-of-use and intangible assets EUR 1,135m (2024: EUR 1,180m); accessed 2026-11-02. adidas does not disclose nine-month D&A, so FY2025 is used as the LTM proxy"
+ADS.DE,adj_nb_to_ebitda,LTM,2025-10-01,2026-09-30,1.3,x,"adidas Q3 2026 results release, p.8: adjusted net borrowings / EBITDA ratio, rounded to one decimal by adidas. Used only to back out LTM EBITDA (adidas discloses no D&A in either release)"
+PUM.DE,revenue,FY,2025-01-01,2025-12-31,7296.2,EUR m,"PUMA Q4/FY 2025 release (2026-02-26), p.12, income statement FY 2025: Sales (continuing operations; PUMA United shown as discontinued)"
+PUM.DE,revenue,YTD,2026-01-01,2026-09-30,5330.6,EUR m,"PUMA Q3 2026 release (2026-10-30), p.9, income statement: Sales 1-9/2026"
+PUM.DE,revenue,YTD_prior,2025-01-01,2025-09-30,5731.2,EUR m,"PUMA Q3 2026 release (2026-10-30), p.9: Sales 1-9/2025 (restated for discontinued operations)"
+PUM.DE,ebit,FY,2025-01-01,2025-12-31,-357.2,EUR m,"PUMA Q4/FY 2025 release, p.12: Operating result (EBIT)"
+PUM.DE,ebit,YTD,2026-01-01,2026-09-30,-12.6,EUR m,"PUMA Q3 2026 release, p.9: Operating result (EBIT) 1-9/2026"
+PUM.DE,ebit,YTD_prior,2025-01-01,2025-09-30,-49.5,EUR m,"PUMA Q3 2026 release, p.9: Operating result (EBIT) 1-9/2025"
+PUM.DE,net_income,FY,2025-01-01,2025-12-31,-645.5,EUR m,"PUMA Q4/FY 2025 release, p.12: Net loss/income (after non-controlling interests)"
+PUM.DE,net_income,YTD,2026-01-01,2026-09-30,-101.2,EUR m,"PUMA Q3 2026 release, p.9: Consolidated net income 1-9/2026"
+PUM.DE,net_income,YTD_prior,2025-01-01,2025-09-30,-308.9,EUR m,"PUMA Q3 2026 release, p.9: Consolidated net income 1-9/2025"
+PUM.DE,cash,BS,,2026-09-30,352.9,EUR m,"PUMA Q3 2026 release, p.10, statement of financial position: Cash and cash equivalents"
+PUM.DE,debt_current,BS,,2026-09-30,886.9,EUR m,"PUMA Q3 2026 release, p.10: Current borrowings"
+PUM.DE,debt_noncurrent,BS,,2026-09-30,544.3,EUR m,"PUMA Q3 2026 release, p.10: Non-current borrowings"
+PUM.DE,lease_current,BS,,2026-09-30,214.6,EUR m,"PUMA Q3 2026 release, p.10: Current lease liabilities"
+PUM.DE,lease_noncurrent,BS,,2026-09-30,965.7,EUR m,"PUMA Q3 2026 release, p.10: Non-current lease liabilities"
+PUM.DE,shares,BS,2026-07-01,2026-09-30,147.24,shares m,"PUMA Q3 2026 release, p.9: weighted average shares outstanding Q3 2026 (basic). Proxy: the release does not state period-end shares outstanding"

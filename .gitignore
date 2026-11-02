@@ -1,0 +1,10 @@
+# Raw downloads (SEC filings, market data, IR PDFs): re-created by data_pipeline.py and market_data.py
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Office lock / temp files
+~$*
+.~lock.*#

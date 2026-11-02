@@ -1,0 +1,18 @@
+﻿statement,period,line_id,label,original_value,original_filing,latest_value,latest_filing,note
+BS,FY2025,us-gaap_AccruedLiabilitiesCurrent,Accrued liabilities,5911.0,0000320187-25-000047,5916.0,0000320187-26-000088,value revised
+BS,FY2025,us-gaap_ShortTermBorrowings,Notes payable,5.0,0000320187-25-000047,,0000320187-26-000088,line not in latest filing
+CF,FY2021,us-gaap_ProceedsFromIssuanceOfLongTermDebt,"Proceeds from borrowings, net of debt issuance costs",0.0,0000320187-22-000038,,0000320187-23-000039,line not in latest filing
+CF,FY2022,us-gaap_ProceedsFromIssuanceOfLongTermDebt,"Proceeds from borrowings, net of debt issuance costs",0.0,0000320187-22-000038,,0000320187-24-000044,line not in latest filing
+CF,FY2023,nke_AmortizationImpairmentAndOther,"Amortization, impairment and other",156.0,0000320187-23-000039,,0000320187-25-000047,line not in latest filing
+CF,FY2023,us-gaap_AssetImpairmentCharges,Impairment and other,,0000320187-23-000039,156.0,0000320187-25-000047,line not in original filing
+CF,FY2023,us-gaap_Depreciation,Depreciation,703.0,0000320187-23-000039,,0000320187-25-000047,line not in latest filing
+CF,FY2023,us-gaap_DepreciationDepletionAndAmortization,Depreciation and amortization,,0000320187-23-000039,703.0,0000320187-25-000047,line not in original filing
+CF,FY2024,nke_AmortizationImpairmentAndOther,"Amortization, impairment and other",48.0,0000320187-24-000044,,0000320187-26-000088,line not in latest filing
+CF,FY2024,us-gaap_AssetImpairmentCharges,Impairment and other,,0000320187-24-000044,48.0,0000320187-26-000088,line not in original filing
+CF,FY2024,us-gaap_Depreciation,Depreciation,796.0,0000320187-24-000044,,0000320187-26-000088,line not in latest filing
+CF,FY2024,us-gaap_DepreciationDepletionAndAmortization,Depreciation and amortization,,0000320187-24-000044,796.0,0000320187-26-000088,line not in original filing
+CF,FY2024,us-gaap_IncomeTaxesPaid,Income taxes,1299.0,0000320187-24-000044,,0000320187-26-000088,line not in latest filing
+CF,FY2024,us-gaap_ProceedsFromRepaymentsOfNotesPayable,"Increase (decrease) in notes payable, net",0.0,0000320187-24-000044,,0000320187-26-000088,line not in latest filing
+CF,FY2025,us-gaap_IncomeTaxesPaid,Income taxes,1226.0,0000320187-25-000047,,0000320187-26-000088,line not in latest filing
+CF,FY2025,us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,Other financing activities,-85.0,0000320187-25-000047,-86.0,0000320187-26-000088,value revised
+CF,FY2025,us-gaap_ProceedsFromRepaymentsOfNotesPayable,"Increase (decrease) in notes payable, net",-1.0,0000320187-25-000047,,0000320187-26-000088,line not in latest filing

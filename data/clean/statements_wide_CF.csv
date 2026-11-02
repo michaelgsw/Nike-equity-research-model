@@ -1,0 +1,34 @@
+﻿label,xbrl_tag,note,FY2022,FY2023,FY2024,FY2025,FY2026,Q1 FY2026,Q1 FY2027
+Net income,us-gaap:NetIncomeLoss,,6046.0,5070.0,5700.0,3219.0,3108.0,727.0,712.0
+Depreciation and amortization,us-gaap:DepreciationDepletionAndAmortization,,,703.0,796.0,775.0,747.0,190.0,193.0
+Deferred income taxes,us-gaap:DeferredIncomeTaxExpenseBenefit,,-650.0,-117.0,-497.0,-288.0,-96.0,-25.0,-67.0
+Stock-based compensation,us-gaap:ShareBasedCompensation,,638.0,755.0,804.0,709.0,715.0,185.0,158.0
+Impairment and other,us-gaap:AssetImpairmentCharges,,,156.0,48.0,33.0,50.0,8.0,9.0
+Net foreign currency adjustments,us-gaap:ForeignCurrencyTransactionGainLossUnrealized,,-26.0,-213.0,-138.0,37.0,22.0,34.0,-24.0
+(Increase) decrease in accounts receivable,us-gaap:IncreaseDecreaseInAccountsReceivable,,-504.0,489.0,-329.0,-257.0,-1207.0,-215.0,695.0
+(Increase) decrease in inventories,us-gaap:IncreaseDecreaseInInventories,,-1676.0,-133.0,908.0,120.0,-31.0,-610.0,-312.0
+"(Increase) decrease in prepaid expenses, operating lease right-of-use assets and other current and non-current assets",us-gaap:IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,-845.0,-644.0,-260.0,-224.0,519.0,-165.0,-10.0
+"Increase (decrease) in accounts payable, accrued liabilities, operating lease liabilities and other current and non-current liabilities",us-gaap:IncreaseDecreaseInAccountsPayableAndOtherOperatingLiabilities,,1365.0,-225.0,397.0,-426.0,-959.0,93.0,-1219.0
+Cash provided (used) by operations,us-gaap:NetCashProvidedByUsedInOperatingActivities,,5188.0,5841.0,7429.0,3698.0,2868.0,222.0,135.0
+Purchases of short-term investments,us-gaap:PaymentsToAcquireAvailableForSaleSecuritiesDebt,,-12913.0,-6059.0,-4767.0,-3234.0,-1316.0,-355.0,-407.0
+Maturities of short-term investments,us-gaap:ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,,8199.0,3356.0,2269.0,319.0,556.0,209.0,36.0
+Sales of short-term investments,us-gaap:ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,,3967.0,4184.0,4219.0,3062.0,1021.0,294.0,378.0
+"Additions to property, plant and equipment",us-gaap:PaymentsToAcquirePropertyPlantAndEquipment,,-758.0,-969.0,-812.0,-430.0,-684.0,-207.0,-199.0
+Other investing activities,us-gaap:PaymentsForProceedsFromOtherInvestingActivities,,-19.0,52.0,-15.0,8.0,-65.0,,
+Cash provided (used) by investing activities,us-gaap:NetCashProvidedByUsedInInvestingActivities,,-1524.0,564.0,894.0,-275.0,-488.0,-59.0,-192.0
+Repayment of borrowings,us-gaap:RepaymentsOfDebt,,0.0,-500.0,0.0,-1000.0,0.0,,
+Proceeds from exercise of stock options and other stock issuances,us-gaap:ProceedsFromIssuanceOrSaleOfEquity,,1151.0,651.0,667.0,551.0,354.0,127.0,0.0
+Repurchase of common stock,us-gaap:PaymentsForRepurchaseOfCommonStock,,-4014.0,-5480.0,-4250.0,-2985.0,-146.0,-126.0,0.0
+Dividends — common and preferred,us-gaap:PaymentsOfDividendsCommonStock,,-1837.0,-2012.0,-2169.0,-2300.0,-2407.0,-591.0,-610.0
+Other financing activities,us-gaap:ProceedsFromPaymentsForOtherFinancingActivities,,-151.0,-102.0,-136.0,-86.0,-93.0,-8.0,-8.0
+Cash provided (used) by financing activities,us-gaap:NetCashProvidedByUsedInFinancingActivities,,-4836.0,-7447.0,-5888.0,-5820.0,-2292.0,-598.0,-618.0
+Effect of exchange rate changes on cash and equivalents,us-gaap:EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,,-143.0,-91.0,-16.0,1.0,11.0,-5.0,15.0
+Net increase (decrease) in cash and equivalents,us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,,-1315.0,-1133.0,2419.0,-2396.0,99.0,-440.0,-660.0
+"Cash and equivalents, beginning of year",us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents[start],,9889.0,8574.0,7441.0,9860.0,7464.0,7464.0,7563.0
+"CASH AND EQUIVALENTS, END OF YEAR",us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents[end],,8574.0,7441.0,9860.0,7464.0,7563.0,7024.0,6903.0
+"Interest, net of capitalized interest",us-gaap:InterestPaidNet,,290.0,347.0,381.0,389.0,323.0,,
+"Non-cash additions to property, plant and equipment",us-gaap:CapitalExpendituresIncurredButNotYetPaid,,160.0,211.0,160.0,184.0,174.0,101.0,225.0
+Depreciation,us-gaap:Depreciation,not in latest 10-K layout,717.0,,,,,,
+"Amortization, impairment and other",nke:AmortizationImpairmentAndOther,not in latest 10-K layout,123.0,,,,,,
+"Increase (decrease) in notes payable, net",us-gaap:ProceedsFromRepaymentsOfNotesPayable,not in latest 10-K layout,15.0,-4.0,,,,,
+Income taxes,us-gaap:IncomeTaxesPaid,not in latest 10-K layout,1231.0,1517.0,,,,,
